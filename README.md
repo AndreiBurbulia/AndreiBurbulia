@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 
 <h3 align="center">I'm a Jr Full Stack Developer</h3>
-<p> I am a young full stack web developer with a great desire to learn and know more and more things about the world of programming. I like to write code and test what I have written to see its functionality. The solid foundations of programming that I learned by attending the [Boolean] course. <p/>
+<p> I am a young full stack web developer with a great desire to learn and know more and more things about the world of programming. I like to write code and test what I have written to see its functionality. The solid foundations of programming that I learned by attending the Boolean course. <p/>
 
 
 <h3 align="center">Languages:</h3>
