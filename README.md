@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
+<img url="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" />
 
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate Jr Full Stack Developer</h3>
