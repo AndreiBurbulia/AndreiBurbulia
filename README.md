@@ -12,8 +12,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreiburbulia&show_icons=true&locale=en&layout=compact" alt="andreiburbulia" /> <p/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/https://codepen.io/andreiburbulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/andreiburbulia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iulian-andrei-burbulia-a45ba1204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iulian-andrei-burbulia-a45ba1204/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/andrei.burbulia.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrei.burbulia.1" height="30" width="40" /></a>
