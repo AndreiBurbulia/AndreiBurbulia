@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 
 <h3 align="center">I'm a Jr Full Stack Developer</h3>
+<p> I am a young full stack web developer with a great desire to learn and know more and more things about the world of programming. I like to write code and test what I have written to see its functionality. The solid foundations of programming that I learned by attending the [Boolean] course. <p/>
 
 
 <h3 align="center">Languages:</h3>
@@ -84,3 +85,6 @@
 <a href="https://fb.com/https://www.facebook.com/andrei.burbulia.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrei.burbulia.1" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/andrei.burbulia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andrei.burbulia/" height="30" width="40" /></a>
 </p>
+
+
+[Boolean]:https://www.boolean.careers/corso/full-time?utm_source=google&utm_medium=cpc&utm_content=corso&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-pLNOZmW8KdDtLMl6X-mM9WA9T9bnmXLMNb6lXtOMWluGaGOoaEpcaAsRIEALw_wcB
