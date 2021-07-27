@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="200" width="600" />
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="300" width="1000" />
 
 
 <h1 align="center">Hi 👋, I'm Andrei</h1>
