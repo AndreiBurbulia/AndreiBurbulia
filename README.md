@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="300" width="1000" />
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="400" width="400" />
+<img src="https://gph.is/2C49Jym" height="300" width="600" />
+<img src="https://gph.is/2C49Jym" height="300" width="600" />
+
 
 
 <h1 align="center">Hi 👋, I'm Andrei</h1>
