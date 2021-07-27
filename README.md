@@ -1,5 +1,5 @@
-<img src="http://gph.is/1cLvPCm" height="200" width="600" />
-<div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="200" width="600" />
+
 
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate Jr Full Stack Developer</h3>
