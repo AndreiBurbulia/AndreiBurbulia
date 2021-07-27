@@ -1,15 +1,7 @@
+<iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate Jr Full Stack Developer</h3>
-
-- 🔭 I’m currently working on **my formation**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndreiBurbulia](https://github.com/AndreiBurbulia)
-
-- 💬 Ask me about **everything**
-
-- 📫 How to reach me **Andreiburbulia@hotmail.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
