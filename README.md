@@ -1,4 +1,4 @@
-<img url="http://gph.is/1cLvPCm" height="200" width="600" />
+<img src="http://gph.is/1cLvPCm" height="200" width="600" />
 
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate Jr Full Stack Developer</h3>
