@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="300" width="1000" />
-<img src="https://user-images.githubusercontent.com/77996991/127202054-4e97de05-6b8a-4dc0-80a5-dd04eec10af2.jpg" height="400" width="400" />
+<img src=https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="400" width="400" />
 
 
 <h1 align="center">Hi 👋, I'm Andrei</h1>
